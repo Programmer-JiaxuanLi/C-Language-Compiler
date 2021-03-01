@@ -1,0 +1,9 @@
+int i;
+boolean num[8];
+int num1[10];
+i=1;
+num1[i]=131;
+num[1]=0;
+print num1[1],num[1];
+
+

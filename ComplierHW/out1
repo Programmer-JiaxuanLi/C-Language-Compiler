@@ -1,0 +1,7 @@
+    1 int num1;
+    2 int num2;
+    3 num1 = 10 + 2;
+    4 num2 = 20 * 3 + num1;
+    5 print num1;
+    6 print num2;
+    7 
