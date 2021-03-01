@@ -6,7 +6,7 @@
 
 目标语言:MIPS
 
-使用语言:C++, BNF
+使用语言:C, BNF
 
 使用工具:yacc, bison, Mars4
 
